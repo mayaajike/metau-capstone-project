@@ -9,7 +9,7 @@ Intern Director: Josh Katz
 
 Peer(s): Irene Gu, Prakshal Jain
 
-GitHub Repository Link: [Link]
+GitHub Repository Link: [[Link]](https://github.com/mayaajike/metau-capstone-project.git)
 
 Overview
 
