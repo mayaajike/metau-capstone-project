@@ -1,8 +1,11 @@
 Meta University Eng Project Plan    
 [Project Name]
 Intern: Maya Ody-Ajike
+
 Intern Manager: Melissa Liu
+
 Intern Director: Josh Katz
+
 Peer(s): Irene Gu, Prakshal Jain
 GitHub Repository Link: [Link]
 Overview
