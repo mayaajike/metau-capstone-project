@@ -43,6 +43,7 @@ You should also identify optional / nice-to-have functionalities that would be d
 Required
 
 User can login
+
 User can create an account 
 
 User can create posts
